@@ -5,6 +5,7 @@ This repository documents my journey of learning C programming through practical
 
 # Projects Completed
 1. Standard Calculator
+2. Attendance Tracker
 
 # Goal
 To learn programming by building useful projects rather than only solving textbook problems.
